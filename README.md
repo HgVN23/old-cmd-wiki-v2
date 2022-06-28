@@ -1,1 +1,1 @@
-# old-cmd-wiki-v2
+Minecraft Bedrock Command Wiki for Vietnamese (Old version v2)
